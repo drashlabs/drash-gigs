@@ -5,7 +5,7 @@ Open source project focused on creating opportunities and driving the gig-based 
 
 Check out a few guides on how to contribute to open source (like this project):
 
-1. [Free Code Camp's Guide](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/): 
+1. [Free Code Camp's Guide](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/)
 
 ## Technology Stack (Proposed)
 
