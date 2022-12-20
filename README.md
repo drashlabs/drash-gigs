@@ -12,7 +12,7 @@ The main blockers noted during the inception and growth of the Community were:
 
 1. A number of software developers who joined the [WhatsApp community](https://chat.whatsapp.com/FmRvzo5jpOzGAnfZRATqSb) were either in campus, fresh graduates, or looking for a gig/job/internship.
 1. The skill-level of the techies in [the community](https://chat.whatsapp.com/FmRvzo5jpOzGAnfZRATqSb) would not be considered "job-ready".
-1. More and more professions joined the community, creating a need for new, more focused, WhatsApp groups e.g. a group focused on [AI opportunities] (https://chat.whatsapp.com/KLzvVjlGFIbDRjSYTNZizd).
+1. More and more professions joined the community, creating a need for new, more focused, WhatsApp groups e.g. a group focused on [AI opportunities](https://chat.whatsapp.com/KLzvVjlGFIbDRjSYTNZizd).
 1. Managing the content in the community became another hustler on it's own.
 
 ## The (proposed) solution
