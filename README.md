@@ -6,7 +6,7 @@ An open source approach to creating opportunites (gigs, jobs and internships) an
 
 The project idea came from [this community on WhatsApp](https://chat.whatsapp.com/FmRvzo5jpOzGAnfZRATqSb).
 
-## The problem(s)
+### The problem(s)
 
 The main blockers noted during the inception and growth of the Community were:
 
@@ -15,7 +15,7 @@ The main blockers noted during the inception and growth of the Community were:
 1. More and more professions joined the community, creating a need for new, more focused, WhatsApp groups e.g. a group focused on [AI opportunities](https://chat.whatsapp.com/KLzvVjlGFIbDRjSYTNZizd).
 1. Managing the content in the community became another hustler on it's own.
 
-## The (proposed) solution
+### The (proposed) solution
 
 Well, the experience gained in running the community plus how rapid it was expanding brought about an opportunity:
 
