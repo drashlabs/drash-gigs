@@ -22,6 +22,13 @@ Well, the experience gained in running the community plus how rapid it was expan
 1. For the developers, they can gain valuable experience by contributing to open source projects (like this one), making them "job-ready".
 1. For the general community, a central, customized, experience, would open up a world of opportunities, not limited to what they are currently engaged in.
 
+## The MVP (Minimum Viable Product)
+
+1. Authentication - users can create accounts and login
+1. Profile - users can customize their profile e.g. add interests, experience etc.
+1. Posting opportunities - registered users can post their opportunites (gigs, jobs and internships + any relevant information related to the core purpose)
+1. Notifications - users can receive notifications regarding available opportunites e.g. via email/SMS
+
 ## Let's get technical
 
 Check out a few guides on how to contribute to open source (like this project):
